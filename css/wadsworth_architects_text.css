@@ -1,0 +1,89 @@
+#left {
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.1em;
+	color: white;
+}
+
+#right {
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.1em;
+	color: white;
+}
+
+#middle { 
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	color: white;
+}
+#footer {
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.1em;
+	color: white;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+
+#credit {
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.1em;
+	color: black;
+	text-align: right;
+	padding: 10px 10px 10px 0px;
+}
+
+.navHeader {
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: white;
+	line-height: 2.2em;
+}
+
+#left .navHeader {
+	padding-left: 10px; /* was 40px */
+}
+
+.navSubHeader {
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: white;	
+}
+
+#right .navHeader {
+	padding-right: 10px; /* was 40px */
+}
+
+#middle .navHeader {
+	text-align: center;
+}
+
+#navList {
+	margin-top: -10px;
+	margin-left: 0px;
+}
+
+ul li {
+	list-style:none;
+	margin-top: 0.5em;
+	}
+
+.focus {
+	font-size: 130%;
+	font-weight: bold;
+	}
+	
+#navList a:link	{ color: #FFFFFF; display:block; text-decoration: none }
+#navList a:visited	{ color: #CCCCCC; display:block;  text-decoration: none }
+#navList a:active	{ color: #CCCCCC; display:block;  text-decoration: none }
+#navList a:hover	{ color: #00FFFF; display:block;  text-decoration: none }
+
+a:link		{ color: #FFFFFF; text-decoration: underline }
+a:visited	{ color: #00FFFF; text-decoration: underline }
+a:active	{ color: #00FFFF; text-decoration: underline }
+a:hover		{ color: #00FFFF; text-decoration: none }	
+
+.wufoo .info{display:none}

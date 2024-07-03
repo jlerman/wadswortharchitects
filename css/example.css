@@ -1,0 +1,74 @@
+.iamaheadline {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+	font-style: normal;
+	line-height: 24px;
+	font-weight: bold;
+	font-variant: normal;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000000;
+}
+.iamnormal {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 22px;
+	font-style: normal;
+	color: #000000;
+}
+.iamsidebar {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 10px;
+	color: #000000;
+	font-weight: normal;
+}
+.iamsidebarheadline {
+	font-family: Helvetica;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	line-height: 18px;
+}
+.caption {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+a:link {
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+}
+a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+.iamnewnormal {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 24px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	background-color: #ECECEC;
+	padding: 6px;
+}
+
+
